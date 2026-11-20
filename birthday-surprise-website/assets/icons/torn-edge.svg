@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 60" preserveAspectRatio="none">
-  <!-- Torn paper ripped edge -->
-  <path d="M0,0 L0,25 
-           Q25,38 50,22 T100,28 T150,15 T200,32 T250,20 T300,35 T350,18 T400,30 T450,15 T500,34 
-           T550,22 T600,38 T650,20 T700,32 T750,18 T800,35 T850,20 T900,32 T950,16 T1000,36 
-           T1050,24 T1100,34 T1150,20 T1200,28 L1200,60 L0,60 Z" fill="#335F84"/>
-</svg>

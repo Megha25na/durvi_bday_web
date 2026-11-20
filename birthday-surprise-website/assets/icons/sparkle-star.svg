@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
-  <!-- Hand-drawn 4-pointed retro star doodle -->
-  <path d="M50 8 C48 30 30 48 8 50 C30 52 48 70 50 92 C52 70 70 52 92 50 C70 48 52 30 50 8 Z" 
-        stroke="#2E6296" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" fill="#E2EDF9"/>
-  <circle cx="50" cy="50" r="3" fill="#2E6296"/>
-</svg>
