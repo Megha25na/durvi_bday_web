@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
-  <!-- Hand-drawn heart sticker -->
-  <path d="M50 82 C50 82 14 58 14 34 C14 20 25 12 36 12 C44 12 48 16 50 20 C52 16 56 12 64 12 C75 12 86 20 86 34 C86 58 50 82 50 82 Z" 
-        fill="#3B82F6" stroke="#1E3A8A" stroke-width="4" stroke-linejoin="round"/>
-  <ellipse cx="34" cy="26" rx="5" ry="3" fill="#BFDBFE" transform="rotate(-30 34 26)"/>
-</svg>
