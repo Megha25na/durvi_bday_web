@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Cute doodle bunny sticker -->
+  <!-- Left Ear -->
+  <path d="M38 48 C32 30 30 14 36 12 C42 10 46 22 46 45" stroke="#254B77" stroke-width="3.5" fill="#BFDBFE" stroke-linecap="round"/>
+  <!-- Right Ear -->
+  <path d="M54 45 C54 22 58 10 64 12 C70 14 68 30 62 48" stroke="#254B77" stroke-width="3.5" fill="#BFDBFE" stroke-linecap="round"/>
+  <!-- Face/Head -->
+  <ellipse cx="50" cy="62" rx="26" ry="22" fill="#DBEAFE" stroke="#254B77" stroke-width="3.5"/>
+  <!-- Eyes -->
+  <circle cx="42" cy="60" r="3" fill="#254B77"/>
+  <circle cx="58" cy="60" r="3" fill="#254B77"/>
+  <!-- Nose & mouth -->
+  <path d="M47 66 L53 66 L50 69 Z" fill="#254B77"/>
+  <path d="M46 72 C48 74 50 74 50 70 C50 74 52 74 54 72" stroke="#254B77" stroke-width="2" stroke-linecap="round"/>
+  <!-- Cheeks -->
+  <circle cx="36" cy="65" r="4" fill="#93C5FD" opacity="0.7"/>
+  <circle cx="64" cy="65" r="4" fill="#93C5FD" opacity="0.7"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 300" fill="none">
+  <!-- Chunky hand-drawn exclamation mark in deep navy/slate blue -->
+  <path d="M42 22C42 16 48 10 75 10C106 10 120 18 116 26L98 178C96 186 88 192 78 192C68 192 60 186 58 178L42 22Z" fill="#254B77" stroke="#1D3859" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Highlight shine on mark -->
+  <path d="M56 32L66 160" stroke="#4A7BB0" stroke-width="6" stroke-linecap="round" opacity="0.6"/>
+  <!-- Exclamation dot -->
+  <ellipse cx="78" cy="245" rx="26" ry="24" fill="#254B77" stroke="#1D3859" stroke-width="4"/>
+  <ellipse cx="73" cy="240" rx="8" ry="6" fill="#4A7BB0" opacity="0.6"/>
+</svg>

@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E8F1F5"/>
+      <stop offset="100%" stop-color="#D0E3EE"/>
+    </linearGradient>
+    <radialGradient id="roseGrad1" cx="40%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#FFD1DC"/>
+      <stop offset="60%" stop-color="#F497B3"/>
+      <stop offset="100%" stop-color="#DE6E8F"/>
+    </radialGradient>
+    <radialGradient id="roseGrad2" cx="30%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#FFF0F5"/>
+      <stop offset="70%" stop-color="#FBC4D4"/>
+      <stop offset="100%" stop-color="#F285A2"/>
+    </radialGradient>
+    <radialGradient id="peonyGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="60%" stop-color="#FCE7EE"/>
+      <stop offset="100%" stop-color="#E8A7BD"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="750" fill="url(#bg)"/>
+  
+  <circle cx="100" cy="150" r="180" fill="#FFFFFF" opacity="0.3"/>
+  <circle cx="500" cy="200" r="150" fill="#C5DCE8" opacity="0.4"/>
+  
+  <path d="M120 750 C140 580 200 500 240 480" stroke="#FDE5D8" stroke-width="60" stroke-linecap="round"/>
+  <path d="M480 750 C460 580 400 500 360 480" stroke="#FDE5D8" stroke-width="60" stroke-linecap="round"/>
+  <path d="M100 750 C120 620 160 560 210 540" stroke="#FFFFFF" stroke-width="70" stroke-linecap="round"/>
+  <path d="M500 750 C480 620 440 560 390 540" stroke="#FFFFFF" stroke-width="70" stroke-linecap="round"/>
+
+  <polygon points="200,680 400,680 470,440 130,440" fill="#E4CBB4" stroke="#D1B295" stroke-width="4"/>
+  <polygon points="210,680 390,680 440,490 160,490" fill="#D7BEA6"/>
+  <ellipse cx="300" cy="580" rx="40" ry="15" fill="none" stroke="#7E5835" stroke-width="6"/>
+  <ellipse cx="270" cy="580" rx="30" ry="20" fill="none" stroke="#7E5835" stroke-width="5" transform="rotate(-20 270 580)"/>
+  <ellipse cx="330" cy="580" rx="30" ry="20" fill="none" stroke="#7E5835" stroke-width="5" transform="rotate(20 330 580)"/>
+  
+  <g fill="#7A9A7C" opacity="0.85">
+    <ellipse cx="180" cy="350" rx="20" ry="35" transform="rotate(-35 180 350)"/>
+    <ellipse cx="150" cy="310" rx="16" ry="28" transform="rotate(-45 150 310)"/>
+    <ellipse cx="220" cy="280" rx="18" ry="32" transform="rotate(-20 220 280)"/>
+    <ellipse cx="380" cy="270" rx="20" ry="36" transform="rotate(25 380 270)"/>
+    <ellipse cx="440" cy="320" rx="18" ry="30" transform="rotate(40 440 320)"/>
+    <ellipse cx="420" cy="250" rx="15" ry="28" transform="rotate(30 420 250)"/>
+    <ellipse cx="300" cy="220" rx="16" ry="30"/>
+  </g>
+
+  <g fill="#FFFFFF" opacity="0.9">
+    <circle cx="160" cy="260" r="5"/><circle cx="180" cy="240" r="4"/><circle cx="200" cy="270" r="6"/>
+    <circle cx="410" cy="230" r="5"/><circle cx="430" cy="250" r="6"/><circle cx="390" cy="210" r="5"/>
+    <circle cx="280" cy="210" r="6"/><circle cx="330" cy="200" r="5"/><circle cx="310" cy="180" r="6"/>
+  </g>
+
+  <g>
+    <circle cx="230" cy="370" r="55" fill="url(#roseGrad1)"/>
+    <path d="M205 350 Q230 325 255 350 Q230 380 205 350" fill="none" stroke="#FFFFFF" stroke-width="4" opacity="0.7"/>
+    <circle cx="370" cy="360" r="60" fill="url(#roseGrad2)"/>
+    <path d="M345 340 Q370 315 395 340 Q370 375 345 340" fill="none" stroke="#FFFFFF" stroke-width="4" opacity="0.7"/>
+    <circle cx="300" cy="320" r="70" fill="url(#peonyGrad)"/>
+    <circle cx="300" cy="320" r="50" fill="#FFCCD8" opacity="0.8"/>
+    <circle cx="300" cy="320" r="30" fill="#FFA5B8" opacity="0.85"/>
+    <circle cx="220" cy="270" r="45" fill="url(#roseGrad2)"/>
+    <circle cx="380" cy="260" r="48" fill="url(#roseGrad1)"/>
+    <circle cx="300" cy="230" r="42" fill="url(#peonyGrad)"/>
+  </g>
+
+  <g transform="translate(180, 480)">
+    <rect x="0" y="0" width="240" height="46" rx="23" fill="#FFFFFF" stroke="#8CB0D4" stroke-width="3"/>
+    <text x="120" y="28" font-family="sans-serif" font-size="18" font-weight="bold" fill="#254B77" text-anchor="middle">FLOWERS FOR YOU ♡</text>
+  </g>
+</svg>
